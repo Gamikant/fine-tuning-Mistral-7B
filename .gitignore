@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Model files - uncomment if you do not want to track large model files
+# models/*
+# !models/.gitkeep
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files - uncomment if your dataset is too large for Git
+# data/*
+# !data/README.md
